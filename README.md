@@ -1,2 +1,2 @@
 # CHBE220-OER-Dev
- Development of Jypiter notebooks for CHBE220
+ Development of Jupyter notebooks for CHBE220
